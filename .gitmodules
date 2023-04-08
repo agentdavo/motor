@@ -1,0 +1,6 @@
+[submodule "src/mcu/rzt"]
+	path = src/mcu/rzt
+	url = https://github.com/renesas/rzt-fsp
+[submodule "src/mcu/RZA"]
+	path = src/mcu/rza
+	url = https://github.com/renesas/rza-fsp.git
